@@ -159,9 +159,3 @@ contacts.remove(contact);
   }
 }
 
-//await ContactsService.deleteContact(contact);
-//setState(() {
-
-//contacts.remove(contact);
-
-//});
